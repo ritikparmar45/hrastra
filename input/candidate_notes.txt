@@ -1,0 +1,18 @@
+RECRUITER INITIAL SCREENING & INTAKE NOTES
+Candidate: Alex Mercer
+Interviewer: Sarah Jenkins (Lead Recruiter)
+Date of Call: September 10, 2026
+
+SUMMARY OF SCREENING CALL:
+- Alex demonstrated strong verbal communication and deep familiarity with Python FastAPI and microservices concepts.
+- When questioned about work history at Apex Cloud Technologies (listed on resume as Lead Cloud Architect 2021-2024):
+  * CONTRADICTION IDENTIFIED: Alex clarified he was actually hired as a 6-month part-time contractor between May 2023 and November 2023, not a full-time employee from 2021 to 2024. He mentioned working full-time on personal client projects during 2021-2022.
+- Regarding database scaling claim ("Spearheaded PostgreSQL database scaling to 10M+ users"):
+  * AMBIGUITY IDENTIFIED: Alex admitted he was one of 18 backend developers on the project team. He wrote basic SQL query endpoints, but database sharding, infrastructure scaling, and query tuning were handled by the dedicated Principal DBA team.
+- Certifications & Vetting:
+  * Alex holds an AWS Solutions Architect - Associate certification (2022). He confirmed he DOES NOT hold the AWS Certified Solutions Architect - Professional certification required by the job description.
+  * Alex does not currently possess security clearance and was hesitant about undergoing MENA/US background security clearance checks.
+  * Timezone availability: Alex is based in Toronto (EST) and prefers working strictly 9 AM - 5 PM EST, which limits overlap with Gulf Standard Time (GST) morning hours.
+
+RECRUITER RECOMMENDATION FOR NEXT STEP:
+Hold for clarification. Significant discrepancies between resume claims and intake statements regarding title, employment duration, and technical ownership at Apex Cloud.

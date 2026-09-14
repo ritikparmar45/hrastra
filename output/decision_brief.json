@@ -1,0 +1,46 @@
+{
+  "candidate_name": "Alex Mercer",
+  "job_title": "Senior Backend & Cloud Engineer",
+  "overall_assessment": "Solid Python/FastAPI technical background, but direct reconciliation reveals discrepancies in job title/tenure, unverified DB scaling ownership, and missing mandatory certs.",
+  "recommended_action": "ASK FOR INFORMATION",
+  "strong_matches": [
+    "6+ years Python microservices experience (FastAPI/Asyncio).",
+    "PostgreSQL query development and Docker deployment."
+  ],
+  "missing_information": [
+    "AWS Certified Solutions Architect (Professional level) missing.",
+    "Active Security Clearance missing (candidate hesitant on background check).",
+    "Unconfirmed GST timezone overlap (preferred strict 9 AM - 5 PM EST)."
+  ],
+  "contradictions": [
+    "Resume claims full-time 'Lead Cloud Architect (2021-2024)', but intake notes confirm 6-month contractor role in 2023."
+  ],
+  "potential_concerns": [
+    "Ambiguous DB scaling claim: Listed sole credit for 10M+ DB scaling, but was 1 of 18 devs on team."
+  ],
+  "evidence": [
+    {
+      "finding": "Employment Title Discrepancy",
+      "source": "Resume vs Screening Notes",
+      "quote_or_reference": "Resume: 'Lead Architect (2021-Present)' vs Notes: '6-month contractor in 2023'"
+    },
+    {
+      "finding": "AWS Certification Level Gap",
+      "source": "JD vs Resume",
+      "quote_or_reference": "JD: 'AWS Professional Required' vs Resume: 'Associate Level Only'"
+    },
+    {
+      "finding": "Database Scaling Scope",
+      "source": "Resume vs Notes",
+      "quote_or_reference": "Resume: 'Spearheaded 10M+ DB scaling' vs Notes: '1 of 18 devs; DBAs handled sharding'"
+    }
+  ],
+  "action_rationale": "Request written employment verification and cert timeline before scheduling client interview.",
+  "tailored_interview_questions": [
+    "Can you clarify your exact title and contract dates at Apex Cloud?",
+    "What was your direct code contribution to PostgreSQL queries versus the DBA team?",
+    "What is your timeline for obtaining the AWS Professional certification?",
+    "Are you willing to complete the required financial security clearance check?",
+    "Can you adjust your schedule to start earlier for GST timezone overlap?"
+  ]
+}

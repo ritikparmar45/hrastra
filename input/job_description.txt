@@ -1,0 +1,20 @@
+JOB TITLE: Senior Backend & Cloud Engineer
+COMPANY: Horizon Fintech Solutions (Dubai / Remote North America)
+DEPARTMENT: Core Infrastructure Engineering
+
+POSITION OVERVIEW:
+Horizon Fintech Solutions is seeking a Senior Backend & Cloud Engineer to design, scale, and maintain our high-throughput microservices architecture supporting multi-currency financial transactions across MENA and North American markets.
+
+KEY RESPONSIBILITIES:
+- Architect and develop low-latency microservices using Python (FastAPI/Asyncio) and PostgreSQL.
+- Manage containerized deployments on AWS (EKS, Lambda, S3, RDS) using Terraform and CI/CD pipelines.
+- Optimise SQL queries and database partitioning for platforms handling over 5 million daily active users.
+- Ensure strict adherence to PCI-DSS security compliance and financial data encryption standards.
+
+MANDATORY REQUIREMENTS:
+1. 5+ years of professional software engineering experience with Python in backend production environments.
+2. Hands-on experience building microservices with FastAPI or Asyncio and PostgreSQL.
+3. Active AWS Certified Solutions Architect (Professional level) certification.
+4. Active Security Clearance or willingness to undergo MENA/US financial security vetting.
+5. Demonstrated experience leading database optimization for 5M+ user workloads.
+6. Willingness to work overlapping business hours with Gulf Standard Time (GST) and US Eastern Time (EST).

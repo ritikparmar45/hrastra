@@ -1,0 +1,30 @@
+ALEX MERCER
+Senior Software Engineer & Cloud Architect
+Email: alex.mercer@example.com | Phone: +1 (555) 234-5678 | Location: Toronto, Canada
+
+PROFESSIONAL SUMMARY:
+Accomplished Software Engineer with over 6 years of backend engineering experience specializing in Python, microservices architecture, and cloud infrastructure. Proven track record of scaling cloud applications and driving API performance.
+
+WORK EXPERIENCE:
+
+Lead Cloud Architect | Apex Cloud Technologies (Remote)
+January 2021 – Present (3+ years, Full-time)
+- Served as Lead Cloud Architect directing a team of 8 engineers building enterprise SaaS solutions.
+- Architected Python FastAPI microservices handling 100k+ requests per minute with 99.99% uptime.
+- Spearheaded PostgreSQL database scaling and query optimization to support 10M+ active users.
+- Managed AWS cloud infrastructure using Terraform, Kubernetes (EKS), and Docker containers.
+
+Senior Python Developer | Vantage Financial Services
+June 2018 – December 2020 (2.5 years)
+- Developed RESTful APIs in Python (Django & FastAPI) for core payment processing modules.
+- Implemented PCI-DSS compliance checks and automated integration test suites.
+
+TECHNICAL SKILLS:
+- Languages: Python (Expert - 6 yrs), SQL, Bash
+- Frameworks: FastAPI, Asyncio, Django, Flask
+- Cloud & DevOps: AWS (EC2, RDS, Lambda, S3, EKS), Docker, Terraform, Kubernetes
+- Databases: PostgreSQL, Redis, MongoDB
+
+EDUCATION & CERTIFICATIONS:
+- B.Sc. in Computer Science, University of Toronto (2014 – 2018)
+- AWS Certified Solutions Architect – Associate (Earned 2022)
